@@ -1,4 +1,9 @@
 # Resume-Parsing
+
+I am working on REST API which can automatically process resumes and get output . 
+
+
+
 	name	                        phone	                 email	                     skills
   
   Alisson Parker-Wright	                ['8569878511']	         alli1414parks@mail.com	      {'python', 'tableau', 'java'}
